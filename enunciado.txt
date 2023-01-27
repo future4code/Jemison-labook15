@@ -1,0 +1,14 @@
+Prezada(o),
+
+	Essa semana será simples. É só fazer o backend de uma rede social.
+O nome da rede se chama LaBook, nasceu como uma rede de alunos de 
+universidades americanas, e agora parece que já tem um número aceitável 
+de usuários (2 bilhões).
+	Você deverá construir o backend da LaBook, garantindo que 
+que todos os requisitos descritos em anexo sejam cumpridos. O
+prazo é até 03/02.
+	É um contrato importante para nós, portanto, sem atrasos ou erros.
+
+Att., 
+
+Astrodev
